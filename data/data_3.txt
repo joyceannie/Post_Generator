@@ -1,0 +1,47 @@
+"We often hear that 50% of new businesses don't make it through their first year. Or that 90% of startups fail. That's not the whole story or even useful for software entrepreneurs.
+
+Software and tech startups are not normal small businesses like your local dentist. Startups are abnormal experiments to find a rapidly scalable business.
+
+Startups have a higher failure rate than small businesses because they are supposed to. And they also can have much higher rewards than normal businesses if they ever grow up. Very few do. 
+
+I have a unique perspective that isn't just from reading headlines about small business failure rates or tracking the few big VC-funded winners. 
+
+I track the comprehensive list of 6000 software companies in 12 local software ecosystems outside Silicon Valley on Gregslist. And I personally talk to 500+ startup and early-stage founders all over the world every year. 
+
+So do most SaaS startups fail? What's really happening in software startup land?
+
+Here's how I see the odds for SaaS founders:
+
+- 10% of entrepreneurs with an interesting idea actually build a usable and sellable MVP (product) based on that idea. There are millions of ideas every day. 
+- 10% of startups with an MVP get to 10 paying customers
+- 10% with some paying customers ($5K-$15K) actually get to $30K MRR (monthly recurring revenue)
+- 10% with $30K MRR get to $1M ARR (annual recurring revenue)
+- 10% with $1M ARR make it to $10M ARR
+- 10% with $10M ARR get to $100M ARR
+- 10% of $100M ARR revenue companies get to $1 billion ARR. There are just a few hundred of these that exist now—in total.
+
+Is it always 10% between every level? Of course not. But it’s definitely not 20% or higher. No way. 
+
+Can you see that .1% of software companies with $30K MRR ever make it to $100M in revenue? 
+
+Investors know this. There are never no risks, even with a $10M software business. That’s why seasoned SaaS investors with big funds wait for you to prove your revenues before they will consider investing. 
+
+For founders, the odds are against you to grow your idea from nothing to a $1M software company. 
+
+It probably won't work, but there's a chance. 
+
+We're all trying to beat the odds and make it to the next level. 
+
+Founders need to know that this journey isn't like progressing through the stages of life (baby, toddler, teenager, young adult, etc.) where it just happens.
+
+It's more like climbing Everest where very few make it through all the stages to the higher levels, despite monumental efforts. 
+
+Just be in the top 10% of your class and make it to the next level. It isn’t impossible, it’s just not common. 
+
+Practical founders who want to grow valuable companies with at least $5M+ in ARR should focus on these things:
+
+1) Sustain yourself and your startup without outside funding during the treacherous and long experiment stage. 
+
+2) Focus on the few key things that will help you grow to the next level. 
+
+3) Procrastinate outside funding—forever if you can."
